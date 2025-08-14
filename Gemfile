@@ -40,3 +40,4 @@ gem 'puma', '7.0.0.pre1'
 # gem 'debugger', group: [:development, :test]
 
 gem "judoscale-rails"
+gem "barnes"
