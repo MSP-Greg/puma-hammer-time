@@ -39,3 +39,4 @@ gem 'puma', '7.0.0.pre1'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "judoscale-rails"
