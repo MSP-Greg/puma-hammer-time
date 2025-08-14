@@ -153,7 +153,7 @@ GEM
     psych (5.2.6)
       date
       stringio
-    puma (6.6.1)
+    puma (7.0.0.pre1)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.1.16)
@@ -253,7 +253,7 @@ DEPENDENCIES
   jquery-rails
   listen
   pg (~> 1.6.0)
-  puma
+  puma (= 7.0.0.pre1)
   rails (~> 7.2.2)
   sass-rails
   sdoc
